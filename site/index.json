@@ -22,8 +22,7 @@
       "number": "1.0.1"
     },
     "createdAt": "2020-07-13T00:00:00.000Z",
-    "updatedAt": "2020-07-13T00:00:00.000Z",
-    "deletedAt": null
+    "updatedAt": "2020-07-13T00:00:00.000Z"
   },
 
   {
@@ -48,8 +47,7 @@
       "number": "1.0.1"
     },
     "createdAt": "2021-03-12T00:00:00.000Z",
-    "updatedAt": "2021-03-12T00:00:00.000Z",
-    "deletedAt": null
+    "updatedAt": "2021-03-12T00:00:00.000Z"
   },
 
   {
@@ -65,17 +63,16 @@
       {
         "tag": "latest",
         "file": "https://cdn.openstad.nlsvgtr.nl/meer/ecosystem-templates/site/insturen.tgz",
-        "number": "1.0.1"
+        "number": "1.0.2"
       }
     ],
     "latest": {
       "tag": "latest",
       "file": "https://cdn.openstad.nlsvgtr.nl/meer/ecosystem-templates/site/insturen.tgz",
-      "number": "1.0.1"
+      "number": "1.0.2"
     },
-    "createdAt": "2021-03-12T00:00:00.000Z",
-    "updatedAt": "2021-03-12T00:00:00.000Z",
-    "deletedAt": null
+    "createdAt": "2021-12-22T00:00:00.000Z",
+    "updatedAt": "2021-12-22T00:00:00.000Z"
   },
 
   {
@@ -100,8 +97,7 @@
       "number": "1.0.1"
     },
     "createdAt": "2021-03-12T00:00:00.000Z",
-    "updatedAt": "2021-03-12T00:00:00.000Z",
-    "deletedAt": null
+    "updatedAt": "2021-03-12T00:00:00.000Z"
   }
 
 ]
