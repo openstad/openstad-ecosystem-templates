@@ -1,0 +1,107 @@
+[
+
+  {
+    "name": "Lege site",
+    "author": "OpenStad Amsterdam",
+    "maintainer": "OpenStad Amsterdam",
+    "description": "Een helemaal lege website",
+    "exampleSite": "",
+    "images": [
+      "https://cdn.openstad.nlsvgtr.nl/meer/ecosystem-templates/site/lege.site.png"
+    ],
+    "versions": [
+      {
+        "tag": "latest",
+        "file": "https://cdn.openstad.nlsvgtr.nl/meer/ecosystem-templates/site/lege.site.tgz",
+        "number": "1.0.1"
+      }
+    ],
+    "latest": {
+      "tag": "latest",
+      "file": "https://cdn.openstad.nlsvgtr.nl/meer/ecosystem-templates/site/lege.site.tgz",
+      "number": "1.0.1"
+    },
+    "createdAt": "2020-07-13T00:00:00.000Z",
+    "updatedAt": "2020-07-13T00:00:00.000Z",
+    "deletedAt": null
+  },
+
+  {
+    "name": "Participatief begroten",
+    "author": "OpenStad Amsterdam",
+    "maintainer": "OpenStad Amsterdam",
+    "description": "Een site voor bewoners om Participatief te begroten",
+    "exampleSite": "https://demo-begroten.cms.openstad.amsterdam",
+    "images": [
+      "https://cdn.openstad.nlsvgtr.nl/meer/ecosystem-templates/site/begroten.png"
+    ],
+    "versions": [
+      {
+        "tag": "latest",
+        "file": "https://cdn.openstad.nlsvgtr.nl/meer/ecosystem-templates/site/begroten.tgz",
+        "number": "1.0.1"
+      }
+    ],
+    "latest": {
+      "tag": "latest",
+      "file": "https://cdn.openstad.nlsvgtr.nl/meer/ecosystem-templates/site/begroten.tgz",
+      "number": "1.0.1"
+    },
+    "createdAt": "2021-03-12T00:00:00.000Z",
+    "updatedAt": "2021-03-12T00:00:00.000Z",
+    "deletedAt": null
+  },
+
+  {
+    "name": "Plannen insturen",
+    "author": "OpenStad Amsterdam",
+    "maintainer": "OpenStad Amsterdam",
+    "description": "Een site voor bewoners om plannen in te sturen.",
+    "exampleSite": "https://demo-plannen-insturen.cms.openstad.amsterdam",
+    "images": [
+      "https://cdn.openstad.nlsvgtr.nl/meer/ecosystem-templates/site/insturen.png"
+    ],
+    "versions": [
+      {
+        "tag": "latest",
+        "file": "https://cdn.openstad.nlsvgtr.nl/meer/ecosystem-templates/site/insturen.tgz",
+        "number": "1.0.1"
+      }
+    ],
+    "latest": {
+      "tag": "latest",
+      "file": "https://cdn.openstad.nlsvgtr.nl/meer/ecosystem-templates/site/insturen.tgz",
+      "number": "1.0.1"
+    },
+    "createdAt": "2021-03-12T00:00:00.000Z",
+    "updatedAt": "2021-03-12T00:00:00.000Z",
+    "deletedAt": null
+  },
+
+  {
+    "name": "Stemsite",
+    "author": "OpenStad Amsterdam",
+    "maintainer": "OpenStad Amsterdam",
+    "description": "Een site om voor bewoners op plannen te stemmen.",
+    "exampleSite": "https://demo-stemsite.cms.openstad.amsterdam",
+    "images": [
+      "https://cdn.openstad.nlsvgtr.nl/meer/ecosystem-templates/site/stemmen.png"
+    ],
+    "versions": [
+      {
+        "tag": "latest",
+        "file": "https://cdn.openstad.nlsvgtr.nl/meer/ecosystem-templates/site/stemmen.tgz",
+        "number": "1.0.1"
+      }
+    ],
+    "latest": {
+      "tag": "latest",
+      "file": "https://cdn.openstad.nlsvgtr.nl/meer/ecosystem-templates/site/stemmen.tgz",
+      "number": "1.0.1"
+    },
+    "createdAt": "2021-03-12T00:00:00.000Z",
+    "updatedAt": "2021-03-12T00:00:00.000Z",
+    "deletedAt": null
+  }
+
+]
