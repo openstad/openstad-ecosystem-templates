@@ -7,22 +7,22 @@
     "description": "Een helemaal lege website",
     "exampleSite": "",
     "images": [
-      "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/lege.site.png"
+      "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/leeg.png"
     ],
     "versions": [
       {
         "tag": "latest",
-        "file": "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/lege.site.tgz",
-        "number": "1.0.1"
+        "file": "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/leeg.tgz",
+        "number": "1.0.3"
       }
     ],
     "latest": {
       "tag": "latest",
-      "file": "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/lege.site.tgz",
-      "number": "1.0.1"
+      "file": "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/leeg.tgz",
+      "number": "1.0.3"
     },
     "createdAt": "2020-07-13T00:00:00.000Z",
-    "updatedAt": "2020-07-13T00:00:00.000Z"
+    "updatedAt": "2022-01-17T00:00:00.000Z"
   },
 
   {
@@ -38,16 +38,16 @@
       {
         "tag": "latest",
         "file": "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/begroten.tgz",
-        "number": "1.0.1"
+        "number": "1.0.3"
       }
     ],
     "latest": {
       "tag": "latest",
       "file": "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/begroten.tgz",
-      "number": "1.0.1"
+      "number": "1.0.3"
     },
     "createdAt": "2021-03-12T00:00:00.000Z",
-    "updatedAt": "2021-03-12T00:00:00.000Z"
+    "updatedAt": "2022-01-17T00:00:00.000Z"
   },
 
   {
@@ -63,16 +63,16 @@
       {
         "tag": "latest",
         "file": "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/insturen.tgz",
-        "number": "1.0.2"
+        "number": "1.0.3"
       }
     ],
     "latest": {
       "tag": "latest",
       "file": "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/insturen.tgz",
-      "number": "1.0.2"
+      "number": "1.0.3"
     },
     "createdAt": "2021-12-22T00:00:00.000Z",
-    "updatedAt": "2021-12-22T00:00:00.000Z"
+    "updatedAt": "2022-11-27T00:00:00.000Z"
   },
 
   {
@@ -88,16 +88,16 @@
       {
         "tag": "latest",
         "file": "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/stemmen.tgz",
-        "number": "1.0.1"
+        "number": "1.0.3"
       }
     ],
     "latest": {
       "tag": "latest",
       "file": "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/stemmen.tgz",
-      "number": "1.0.1"
+      "number": "1.0.3"
     },
     "createdAt": "2021-03-12T00:00:00.000Z",
-    "updatedAt": "2021-03-12T00:00:00.000Z"
+    "updatedAt": "2022-01-17T00:00:00.000Z"
   }
 
 ]
