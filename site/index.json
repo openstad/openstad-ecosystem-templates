@@ -1,5 +1,4 @@
 [
-
   {
     "name": "Lege site",
     "author": "OpenStad Amsterdam",
@@ -38,7 +37,7 @@
       {
         "tag": "latest",
         "file": "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/begroten.tgz",
-        "number": "1.0.3"
+        "number": "1.0.4"
       }
     ],
     "latest": {
@@ -63,7 +62,7 @@
       {
         "tag": "latest",
         "file": "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/insturen.tgz",
-        "number": "1.0.3"
+        "number": "1.0.4"
       }
     ],
     "latest": {
@@ -99,5 +98,4 @@
     "createdAt": "2021-03-12T00:00:00.000Z",
     "updatedAt": "2022-01-17T00:00:00.000Z"
   }
-
 ]
