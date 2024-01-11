@@ -23,7 +23,6 @@
     "createdAt": "2020-07-13T00:00:00.000Z",
     "updatedAt": "2022-01-17T00:00:00.000Z"
   },
-
   {
     "name": "Participatief begroten",
     "author": "OpenStad Amsterdam",
@@ -31,24 +30,28 @@
     "description": "Een site voor bewoners om Participatief te begroten",
     "exampleSite": "https://demo-begroten.cms.openstad.amsterdam",
     "images": [
-      "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/begroten.png"
+      "https://raw.githubusercontent.com/openstad/openstad-ecosystem-templates/aa08523cb32c458530bf3c1965399f9a7befb70f/site/begroten.png"
     ],
     "versions": [
       {
+        "tag": "previous",
+        "file": "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/begroten.2.0.0.tgz",
+        "number": "2.0.0"
+      },
+      {
         "tag": "latest",
-        "file": "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/begroten.tgz",
-        "number": "1.0.4"
+        "file": "https://github.com/openstad/openstad-ecosystem-templates/raw/aa08523cb32c458530bf3c1965399f9a7befb70f/site/begroten.tgz?download=",
+        "number": "2.0.1"
       }
     ],
     "latest": {
       "tag": "latest",
-      "file": "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/begroten.tgz",
-      "number": "1.0.3"
+      "file": "https://github.com/openstad/openstad-ecosystem-templates/raw/aa08523cb32c458530bf3c1965399f9a7befb70f/site/begroten.tgz?download=",
+      "number": "2.0.1"
     },
     "createdAt": "2021-03-12T00:00:00.000Z",
-    "updatedAt": "2022-01-17T00:00:00.000Z"
+    "updatedAt": "2022-02-28T00:00:00.000Z"
   },
-
   {
     "name": "Plannen insturen",
     "author": "OpenStad Amsterdam",
@@ -56,24 +59,28 @@
     "description": "Een site voor bewoners om plannen in te sturen.",
     "exampleSite": "https://demo-plannen-insturen.cms.openstad.amsterdam",
     "images": [
-      "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/insturen.png"
+      "https://raw.githubusercontent.com/openstad/openstad-ecosystem-templates/aa08523cb32c458530bf3c1965399f9a7befb70f/site/insturen.png"
     ],
     "versions": [
       {
+        "tag": "previous",
+        "file": "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/insturen.1.0.3.tgz",
+        "number": "1.0.3"
+      },
+      {
         "tag": "latest",
-        "file": "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/insturen.tgz",
-        "number": "1.0.4"
+        "file": "https://github.com/openstad/openstad-ecosystem-templates/raw/aa08523cb32c458530bf3c1965399f9a7befb70f/site/insturen.tgz?download=",
+        "number": "1.2.0"
       }
     ],
     "latest": {
       "tag": "latest",
-      "file": "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/insturen.tgz",
-      "number": "1.0.3"
+      "file": "https://github.com/openstad/openstad-ecosystem-templates/raw/aa08523cb32c458530bf3c1965399f9a7befb70f/site/insturen.tgz?download=",
+      "number": "1.2.0"
     },
     "createdAt": "2021-12-22T00:00:00.000Z",
-    "updatedAt": "2022-11-27T00:00:00.000Z"
+    "updatedAt": "2022-04-26T00:00:00.000Z"
   },
-
   {
     "name": "Stemsite",
     "author": "OpenStad Amsterdam",
@@ -97,5 +104,77 @@
     },
     "createdAt": "2021-03-12T00:00:00.000Z",
     "updatedAt": "2022-01-17T00:00:00.000Z"
+  },
+  {
+    "name": "Kaart - bewoners",
+    "author": "OpenStad Amsterdam",
+    "maintainer": "OpenStad Amsterdam",
+    "description": "Interactieve Kaart. Bewoners sturen punten in.",
+    "exampleSite": "https://inspraak-op-een-kaart.site.openstad.amsterdam",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/kaart-bewoners.png"
+    ],
+    "versions": [
+      {
+        "tag": "latest",
+        "file": "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/kaart-bewoners.tgz",
+        "number": "1.0.0"
+      }
+    ],
+    "latest": {
+      "tag": "latest",
+      "file": "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/kaart-bewoners.tgz",
+      "number": "1.0.0"
+    },
+    "createdAt": "2021-12-22T00:00:00.000Z",
+    "updatedAt": "2022-04-26T00:00:00.000Z"
+  },
+  {
+    "name": "Kaart - gemeente",
+    "author": "OpenStad Amsterdam",
+    "maintainer": "OpenStad Amsterdam",
+    "description": "Interactieve Kaart. De gemeente zet punten op kaart, bewoners reageren daar op.",
+    "exampleSite": "https://inventarisatie-op-kaart.site.openstad.amsterdam/",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/kaart-gemeente.png"
+    ],
+    "versions": [
+      {
+        "tag": "latest",
+        "file": "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/kaart-gemeente.tgz",
+        "number": "1.0.0"
+      }
+    ],
+    "latest": {
+      "tag": "latest",
+      "file": "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/kaart-gemeente.tgz",
+      "number": "1.0.0"
+    },
+    "createdAt": "2021-12-22T00:00:00.000Z",
+    "updatedAt": "2022-04-26T00:00:00.000Z"
+  },
+  {
+    "name": "Keuzewijzer",
+    "author": "OpenStad Amsterdam",
+    "maintainer": "OpenStad Amsterdam",
+    "description": "Met de keuzewijzer ondersteun je mensen in het vormen van hun mening over complexe vraagstukken.",
+    "exampleSite": "https://demo-keuzewijzer.site.openstad.amsterdam",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/keuzewijzer.png"
+    ],
+    "versions": [
+      {
+        "tag": "latest",
+        "file": "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/keuzewijzer.tgz",
+        "number": "1.0.0"
+      }
+    ],
+    "latest": {
+      "tag": "latest",
+      "file": "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/keuzewijzer.tgz",
+      "number": "1.0.0"
+    },
+    "createdAt": "2021-12-22T00:00:00.000Z",
+    "updatedAt": "2022-04-26T00:00:00.000Z"
   }
 ]
